@@ -35,6 +35,9 @@ main > section#login {
     width: 250px;
     height: 500px;
     border-radius: 20px;
+
+    transition: width 0.3s, height 0.3s;
+    transition-timing-function: ease;
 }
 
 main > section > div#imagem {
@@ -48,5 +51,8 @@ main > section > div#formulario {
     display: block;
     padding: 10px;
 
+}
+
+main > section > div#formulario > p {
 
 }
