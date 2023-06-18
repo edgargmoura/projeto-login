@@ -53,6 +53,11 @@ main > section > div#formulario {
 
 }
 
-main > section > div#formulario > p {
+main > section > div#formulario > h1 {
+    text-align: center;
+    margin-bottom: 10px;
+}
 
+main > section > div#formulario > p {
+    font-size: 0.8em;
 }
