@@ -29,7 +29,7 @@
     }
 
     form > div.campo > input {
-        width: calc(100% - 42px);
+        width: calc(100% - 50px);
     }
 }
 
@@ -64,7 +64,7 @@
     }
 
     form > div.campo > input {
-        width: calc(100% - 42px);
+        width: calc(100% - 50px);
     }
 }       
 
